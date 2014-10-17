@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jma:home|Door43 (jma)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jma|d43-jma repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jma/archive/master.zip|d43-jma.zip]]
+
+**Recent Changes**
+{{changes>ns = jma}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jma|Ethnologue data]]
+
